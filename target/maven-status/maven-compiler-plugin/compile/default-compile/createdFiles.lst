@@ -1,0 +1,6 @@
+springbasics\client\Contact.class
+springbasics\client\HttpInvokerBrotliExecutor.class
+springbasics\client\HttpInvokerGzipExecutor.class
+springbasics\client\HttpInvokerClientBrotilApp.class
+springbasics\client\Test.class
+springbasics\client\HttpInvokerClientGzipApp.class
